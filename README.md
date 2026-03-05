@@ -68,13 +68,3 @@ pip install -r requirements.txt
 ```bash
 cd cnn-image-classifier
 python main.py
-
-
-
-**Built with ❤️ by [vishahameed1**](https://www.google.com/search?q=https://github.com/vishahameed1)
-
----
-
-### What should I do next?
-
-Would you like me to generate a **`.gitignore`** file specifically for this folder so that large datasets (like `PetImages/` or `.csv` files) don't slow down your GitHub pushes?
